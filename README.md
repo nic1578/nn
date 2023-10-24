@@ -1,4 +1,4 @@
-![banner-1600x600](https://github.com/nic1578/nn/assets/146443922/ecd0cf06-1c67-495e-b31e-ea06e31f4638)<!DOCTYPE html>
+![beneficios](https://github.com/nic1578/nn/assets/146443922/fc075b12-aa53-4548-b2fc-a16704106fa7)![banner-1600x600](https://github.com/nic1578/nn/assets/146443922/ecd0cf06-1c67-495e-b31e-ea06e31f4638)<!DOCTYPE html>
 <html lang="pt-br"> 
 <meta charset="UTF-8">
 
@@ -13,4 +13,14 @@
 
  <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
  <h2>Beneficios</h2>
+<ul>
+<li> Atendimento aos clientes</li>
+<li> Espaço Diferenciado</li>
+ <li>Localização</li>
+<li> Profissionais Qualificados</li>
+</ul>
+<img scr="beneficios.jpg">
+
+
+
 </html>
